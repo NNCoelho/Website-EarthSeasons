@@ -1,2 +1,2 @@
-# Website-EarthSeasons
-Website Template Desenvolvido em HTML5 & CSS3. (Visual Studio Code)
+# Website EarthSeasons
+Website Desenvolvido em HTML5 & CSS3. (Visual Studio Code)
